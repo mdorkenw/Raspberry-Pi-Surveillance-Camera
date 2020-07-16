@@ -11,3 +11,5 @@ This webpage is helpful for ideas to connect telegram bot with camera https://gi
 Setup ssh for raspberry pi https://www.pyimagesearch.com/2019/07/01/remote-development-on-the-raspberry-pi-or-amazon-ec2/
 
 
+<link rel="stylesheet" href="https://latex.now.sh/lang/es.css" />
+
