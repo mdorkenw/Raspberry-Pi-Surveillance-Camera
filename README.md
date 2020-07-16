@@ -9,3 +9,5 @@ This webpage for setting up telegram bot https://www.instructables.com/id/Set-up
 This webpage is helpful for ideas to connect telegram bot with camera https://ginolhac.github.io/posts/diy-raspberry-monitored-via-telegram/#materials
 
 Setup ssh for raspberry pi https://www.pyimagesearch.com/2019/07/01/remote-development-on-the-raspberry-pi-or-amazon-ec2/
+
+
