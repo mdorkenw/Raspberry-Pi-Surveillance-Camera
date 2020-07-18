@@ -4,7 +4,7 @@
 ## Getting Started
 
 ### Raspberry Pi Set up
-Here a great [step by step guide](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up) for setting up the raspberry pi with the camera. 
+Here a great [step by step guide](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up) for setting up the raspberry pi and [here](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera) for the camera. 
 
 ### Install opencv
 https://www.pyimagesearch.com/2019/09/16/install-opencv-4-on-raspberry-pi-4-and-raspbian-buster/
